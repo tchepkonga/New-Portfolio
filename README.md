@@ -36,7 +36,7 @@ https://tchepkonga.github.io/New-Portfolio
 
 ## Contact Information 
 
-If you have any question or contributions that would better this app, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions that would better this app, please email me at [tchepkonga@gmail.com]
 
 ## License
 * *MIT License:*
