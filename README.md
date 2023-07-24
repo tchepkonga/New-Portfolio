@@ -10,7 +10,7 @@
 
 
 ## Live Page 
-https://tchepkonga.github.io/New-Portfolio 
+https://tchepkonga.github.io/New-Portfolio/
 
 
 ## Installation / Setup instruction
